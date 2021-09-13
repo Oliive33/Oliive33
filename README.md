@@ -1,6 +1,12 @@
 ![Capture web_13-9-2021_15245_www homemade-web com](https://user-images.githubusercontent.com/75976059/133094385-16567946-07e8-457b-a652-c0e70221d328.jpeg)
 ### Hi there 👋
 
+<br>
+## Connect with me
+[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/olivier-villevieille-25533014a/)
+
+
+
 <!--
 **Oliive33/Oliive33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
