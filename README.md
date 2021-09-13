@@ -11,6 +11,7 @@
 ## Connect with me
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/olivier-villevieille-25533014a/)
 [<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/olivier.villevieille.5)
+[<img align="left" alt="intagram" src="https://img.shields.io/badge/intagram-%231DA1F2.svg?&style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/oliive33/)
 <br>
 
 
