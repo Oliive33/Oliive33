@@ -1,5 +1,4 @@
-![Capture web_13-9-2021_15245_www homemade-web com](https://user-images.githubusercontent.com/75976059/133094385-16567946-07e8-457b-a652-c0e70221d328.jpeg)
-### Hi there 👋
+### Hi everyone 👋, My name is Olivier Frontend Freelance Developer
 - 🔭 I’m currently working on frontend projects
 - 🌱 I’m currently learning REACT, VUE, GSAP
 - 👯 I’m looking to collaborate on any frontend projects
@@ -7,7 +6,7 @@
 - 📫 How to reach me: @Oliive33
 - ⚡ Fun fact: 🗼🗽⛪🕌🕍⛩
 <br>
-
+![Capture web_13-9-2021_15245_www homemade-web com](https://user-images.githubusercontent.com/75976059/133094385-16567946-07e8-457b-a652-c0e70221d328.jpeg)
 
 
 
