@@ -2,8 +2,7 @@
 ### Hi there 👋
 
 <br>
-
-![](https://github.com/username/github-stats/blob/master/generated/overview.svg)
+https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif
 
 
 
