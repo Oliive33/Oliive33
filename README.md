@@ -2,12 +2,14 @@
 - 🔭 I’m currently working on frontend projects
 - 🌱 I’m currently learning REACT, VUE, GSAP
 - 👯 I’m looking to collaborate on any frontend projects
-- 💬 Ask me about CSS, JAVASCRIPT, SEO, BOOTSTRAP, TAILWIND, GSAP...
+- 💬 Ask me about CSS, JAVASCRIPT,REACT, SEO, BOOTSTRAP, TAILWIND, GSAP...
 - 📫 How to reach me: @Oliive33
 - ⚡ Fun fact: 🗼🗽⛪🕌🕍⛩
 
 ![Capture web_13-9-2021_15245_www homemade-web com](https://user-images.githubusercontent.com/75976059/133094385-16567946-07e8-457b-a652-c0e70221d328.jpeg)
-
+<br>
+## Connect with me
+[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/olivier-villevieille-25533014a/)
 <br>
 
 
