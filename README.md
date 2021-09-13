@@ -5,8 +5,10 @@
 - 💬 Ask me about CSS, JAVASCRIPT, SEO, BOOTSTRAP, TAILWIND, GSAP...
 - 📫 How to reach me: @Oliive33
 - ⚡ Fun fact: 🗼🗽⛪🕌🕍⛩
-<br>
+
 ![Capture web_13-9-2021_15245_www homemade-web com](https://user-images.githubusercontent.com/75976059/133094385-16567946-07e8-457b-a652-c0e70221d328.jpeg)
+
+<br>
 
 
 
