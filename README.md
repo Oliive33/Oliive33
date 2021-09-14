@@ -6,7 +6,7 @@
 - 📫 How to reach me: @Oliive33
 - ⚡ Fun fact: 🗼🗽⛪🕌🕍⛩
 
-![Capture web_13-9-2021_15245_www homemade-web com](https://user-images.githubusercontent.com/75976059/133094385-16567946-07e8-457b-a652-c0e70221d328.jpeg)
+<img width="762" alt="github" src="https://user-images.githubusercontent.com/75976059/133207773-90f233c8-d25c-442f-8e48-d847d4a20329.PNG">
 <br>
 ## Connect with me
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/olivier-villevieille-25533014a/)
