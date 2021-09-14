@@ -1,3 +1,5 @@
+<img width="762" alt="github" src="https://user-images.githubusercontent.com/75976059/133208490-ce34c451-d6e4-4340-9d5f-db124a84b661.PNG">
+
 ### Hi everyone 👋, My name is Olivier Frontend Freelance Developer
 - 🔭 I’m currently working on frontend projects
 - 🌱 I’m currently learning REACT, VUE, GSAP
@@ -5,7 +7,6 @@
 - 💬 Ask me about CSS, JAVASCRIPT,REACT, SEO, BOOTSTRAP, TAILWIND, GSAP...
 - 📫 How to reach me: @Oliive33
 - ⚡ Fun fact: 🗼🗽⛪🕌🕍⛩
-<img width="762" alt="github" src="https://user-images.githubusercontent.com/75976059/133207773-90f233c8-d25c-442f-8e48-d847d4a20329.PNG">
 <br>
 
 
